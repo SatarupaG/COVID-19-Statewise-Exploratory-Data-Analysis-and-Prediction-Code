@@ -1,4 +1,4 @@
-# LCV
+# COVID-19 Statewise Exploratory Data Analysis & Prediction
 This repository hosts the python codes (jupyter) for the latest Covid-19 State wise EDA project.
 
 # Context
