@@ -1,7 +1,7 @@
 # COVID-19 Statewise Exploratory Data Analysis & Prediction
 This repository hosts the python codes (jupyter) for the latest Covid-19 State wise EDA project.
 
-## Tools
+## Tools/Packages/Libraries
 1. Python (Libraries: NumPy) 
 2. Jupyter Notebook
 3. GitHub
