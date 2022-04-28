@@ -4,7 +4,7 @@ This repository hosts the python codes for the latest Covid-19 State wise EDA pr
 ## Tools/Packages/Libraries
 1. Python (Libraries: NumPy) 
 2. Jupyter Notebook
-3. GitHub
+
 
 ##  Problem Statement
 Coronaviruses are a large family of viruses that may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19 - World Health Organization.
