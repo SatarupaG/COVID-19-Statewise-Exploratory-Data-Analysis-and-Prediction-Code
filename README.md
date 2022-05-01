@@ -2,7 +2,7 @@
 This repository hosts the python codes for the latest Covid-19 State wise EDA project.
 
 ## Tools/Packages/Libraries
-1. Python (Libraries: NumPy) 
+1. Python (Libraries: Pandas, NumPy, Matplotlib, Seaborn) 
 2. Jupyter Notebook
 
 
